@@ -1,0 +1,10 @@
+1,BIC,rosu,23.77
+2,Pilot,verde,3.98
+3,FaberCastell,galben,5.67
+4,Micron,albastru,3
+5,Brand45,verde,45
+6,ScrisFrumos,albastru,56
+7,Culoare,verde,20
+8,Brandbun,rosu,45.55
+9,Brandrau,verde,456.66
+10,Brandieftin,galben,456
